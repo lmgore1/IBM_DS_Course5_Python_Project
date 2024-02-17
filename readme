@@ -1,0 +1,5 @@
+My local version of pandas is newer and does not allow for the deprecated dataframe append() method use.
+
+I used the Skills Network virtual environment, downloaded Jupyter Notebook file, and uploaded to Git.
+
+Please not when I downloaded the file, the stock graphs in questions 5 & 6 were lost.
